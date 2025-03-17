@@ -1,8 +1,6 @@
 2104060
 2111004
 
-## Schede Madri
-
 | Modello | Marchio | Quantità |
 | ------- | ------- | -------- |
 | Strix Z690-E Gaming WiFi | ASUS ROG | 12 |
