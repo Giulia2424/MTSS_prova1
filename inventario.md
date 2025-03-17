@@ -1,8 +1,7 @@
 2104060
 2111004
 
-<<<<<<< HEAD
-=======
+
 ## Processori
 | Modello | L2 Cache + L3 Cache | MHZ | Architettura |
 | ------- | ------------------- | --- | ------------ |
@@ -12,7 +11,7 @@
 | Intel Core i9-14900K | 32MB + 36MB | 3200 | x86 |
 | Apple M4 Max (16 cores) | 4MB | 2592 | ARM |
 
->>>>>>> feature/processori
+
 ## Schede Madri
 
 | Modello | Marchio | Quantità |
