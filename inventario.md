@@ -22,4 +22,9 @@
 | Z590 Phantom Gaming 4 | ASRock | 9 |
 | Z490 FTW WiFi | EVGA | 5 |
 
+
 # Periferiche
+
+
+Elettronica Padovana
+
