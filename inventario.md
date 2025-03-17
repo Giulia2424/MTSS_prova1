@@ -1,8 +1,9 @@
 2104060
 2111004
 
+## Componenti
 
-## Processori
+### Processori
 | Modello | L2 Cache + L3 Cache | MHZ | Architettura |
 | ------- | ------------------- | --- | ------------ |
 | AMD Ryzen Threadripper PRO 7995WX | 96MB + 384MB | 2500 | x86 |
@@ -12,7 +13,7 @@
 | Apple M4 Max (16 cores) | 4MB | 2592 | ARM |
 
 
-## Schede Madri
+### Schede Madri
 
 | Modello | Marchio | Quantità |
 | ------- | ------- | -------- |
